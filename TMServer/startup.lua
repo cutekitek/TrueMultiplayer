@@ -1,0 +1,5 @@
+app.config_packs({"base", "true_multiplayer_server"})
+app.new_world("test", 123, "base:demo")
+app.sleep(20)
+print(world.count_chunks())
+app.close_world(true)

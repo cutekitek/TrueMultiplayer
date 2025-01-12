@@ -1,0 +1,6 @@
+{
+    "id": "true_multiplayer_server",
+    "title": "True Multiplayer Server",
+    "version": "0.1",
+    "description": "Мод для полноценного сервера с реализацией Server Side Chunks"
+}
